@@ -8,4 +8,5 @@ Hi, I'm Motta 👩‍💻.
 + Working as a freelancer, always open to new opportunities 🌟.
 - Based in Natal, Brazil 🇧🇷.
 ! Enthusiastic about web development, eager to tackle challenges 💡.
-# 📖 HTML, CSS and JavaScript!```
+# 📖 HTML, CSS and JavaScript!
+```
