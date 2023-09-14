@@ -2,7 +2,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi, I'm Motta 👩‍💻.
+Hi, I'm Jouberly 👩‍💻.
 
 @@I'm a Junior Web Developer@@
 + Working as a freelancer, always open to new opportunities 🌟.
